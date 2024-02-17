@@ -1,2 +1,2 @@
-# Daily Coding Problem and solving
-CODING QUESTIONS FOR INTERVIEWS
+# Daily-Coding-Interview-Problems Using Javascript
+This repository contains the coding interview problems along with solutions.
